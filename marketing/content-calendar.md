@@ -32,7 +32,7 @@
 | Wed | TikTok / Reels / Shorts | Clip #2: "The 9AM Rush" (bowtie duck rush hour) | Finalized | Marketing |
 | Fri | TikTok / Reels / Shorts | Clip #3: "Night Shift" (hoodie duck 2AM) | Finalized | Marketing |
 | Mon | Reddit | r/IndieGaming cross-post of Clip #1 | Pending | CEO (approved by Mktg) |
-| Wed | TikTok / Reels / Shorts | Clip #4: "Meet the Bucket Hat Duck" (profile card) | Finalized | Marketing |
+| Wed | TikTok / Reels / Shorts | Clip #4: "Meet ç µä»”" (follow-cam profile card) | Finalized | Marketing |
 | Fri | TikTok / Reels / Shorts | Clip #5: "The Last Train" (sakura pink duck sprint) | Finalized | Marketing |
 | Sun | Product Hunt | Launch post (if MVP live) | Finalized | Marketing |
 
